@@ -37,7 +37,14 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://freepngimg.com/thumb/java/5-2-java-png-clipart-thumb.png" alt="java" width="55" height="50"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png" alt="python" width="45" height="45"/> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuwani&layout=compact)](https://github.com/Shuwani/github-readme-stats)
+<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuwani&layout=compact)](https://github.com/Shuwani/github-readme-stats)
+
+[![Shuwani GitHub stats](https://github-readme-stats.vercel.app/api?username=shuwani)](https://github.com/Shuwani/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shuwani)](https://github.com/Shuwani/github-readme-streak-stats)
+-->
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwani&layout=compact" alt="shuwani"/></p>
 
 [![Shuwani GitHub stats](https://github-readme-stats.vercel.app/api?username=shuwani)](https://github.com/Shuwani/github-readme-stats)
 
