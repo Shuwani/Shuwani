@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuwani&label=Profile%20views&color=129e00&style=plastic" alt="shuwani" /> </p>
 
 - 🌱 I’m currently learning: "Python"
-- 
 - 📫 How to reach me **shu1702wani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +45,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwani&layout=compact" alt="shuwani"/></p>
 
-[![Shuwani GitHub stats](https://github-readme-stats.vercel.app/api?username=shuwani)](https://github.com/Shuwani/github-readme-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shuwani" alt="shuwani"/></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shuwani)](https://github.com/Shuwani/github-readme-streak-stats)
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuwani" alt="shuwani"/></p>
+
