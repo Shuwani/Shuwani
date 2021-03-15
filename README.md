@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm SHUWANI</h1>
-<h3 align="center">A beginner who loves to explore more and more</h3>
+<h3 align="center">A beginner who loves to explore more and more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuwani&label=Profile%20views&color=129e00&style=plastic" alt="shuwani" /> </p>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://freepngimg.com/thumb/java/5-2-java-png-clipart-thumb.png" alt="java" width="55" height="50"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png" alt="python" width="45" height="45"/> </a>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwani&layout=compact" alt="shuwani"/></p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shuwani" alt="shuwani"/></p>
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuwani" alt="shuwani"/></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwani&layout=compact&show_icons=true&theme=radical" alt="shuwani"/></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shuwani&show_icons=true&theme=radical" alt="shuwani"/></p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuwani&show_icons=true&theme=radical" alt="shuwani"/></p>
 
